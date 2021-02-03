@@ -1,0 +1,17 @@
+---
+title: "recitation"
+author: "Scott Bek"
+date: '2021 2 4 '
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+1 + 1
+```
+
